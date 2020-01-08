@@ -1,0 +1,4 @@
+applications:
+  - name: nestjs-test
+    instances: 1
+    buildpack: https://github.com/cloudfoundry/nodejs-buildpack
